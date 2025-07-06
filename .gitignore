@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+*.venv
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
+
+# dotenv
+.env
+# SQLAlchemy
+*.db        
+*.sqlite
+# Pytest
+.pytest_cache/
+# Coverage
+.coverage
+.coverage.*
+# PyCharm
+.idea/
+# PyInstaller
+*.spec
+# Cython debug symbols
+cython_debug/
+# Pyre type checker
+.pyre/
+# mypy
+.mypy_cache/
+# Pyre
+.pyre/
+
+# Pyright
+.pyright/
+# Pylint
+.pylint.d/
+# Bandit
+.bandit/
+
+# Sphinx documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Jupyter Lab
+.jupyterlab/
+# PyInstaller
+# PyInstaller
+# PyInstaller
+# PyInstaller
+# PyInstaller
+# PyInstaller
+# PyInstaller
+
+
+
+            
