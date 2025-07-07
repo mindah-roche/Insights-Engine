@@ -6,3 +6,14 @@ openai
 streamlit
 pandas
 requests
+python-dotenv
+# Additional libraries for advanced features
+langchain
+pydantic
+beautifulsoup4
+httpx
+# Optional: For testing and development
+pytest
+httpx
+# Optional: For data visualization
+matplotlib  
